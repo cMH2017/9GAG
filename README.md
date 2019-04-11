@@ -1,7 +1,8 @@
-9GAG-Android (deprecated)
+﻿9GAG-Android (deprecated)
 =====================
 
 ## Android学习之路
+fork from stormzhang 2019 04 11
 
 Recommend Blog--[Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
